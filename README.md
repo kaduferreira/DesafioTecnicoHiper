@@ -4,7 +4,7 @@ Escrever um programa para orientação baseado na bússola sempre partindo do no
 
 O usuário deve digitar 'E' para virar para a esquerda e 'D' para virar para a direita e o programa informar as direções informadas.
 
-##Exemplo:
+Exemplo:
 
 - DDDDEEE (LSONOSL)
   
